@@ -2,7 +2,7 @@
 #include <vector>
 #include <complex>
 #include <iostream>
-
+// will complete measurement operation next
 class QuantumState {
 public:
     using Complex = std::complex<double>;
